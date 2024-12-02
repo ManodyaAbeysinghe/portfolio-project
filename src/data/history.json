@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Java Software Engineer",
+      "organisation": "Hitachi-DPS (PVT) Ltd.",
+      "startDate": "Sept, 2021",
+      "endDate": "Dec, 2022",
+      "experiences": ["Worked on Fintech Applications", "100% compliance with industry best practices"],
+      "imageSrc": "/assets/history/hitachi.png"
+    },
+    {
+      "role": "Associate Software Engineer",
+      "organisation": "Hayleys Advantis Ltd",
+      "startDate": "Mar, 2021",
+      "endDate": "Aug, 2021",
+      "experiences": ["Worked on Warehouse Management Projects", "15% reduction in inventory discrepancies"],
+      "imageSrc": "/assets/history/hayleys.png"
+    },
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "Advanced Engineering Technologies",
+      "startDate": "Sep, 2018",
+      "endDate": "Feb, 2019",
+      "experiences": [
+        "Worked on Flight and Hotel Booking System",
+        "Realized a 20% reduction in bug rates"
+      ],
+      "imageSrc": "/assets/history/adent.png"
+    }
+  ]

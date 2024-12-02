@@ -1,0 +1,27 @@
+[
+    {
+      "title": "E-Wallet Mobile Application",
+      "imageSrc": "/assets/projects/project.png",
+      "description": "This is  a robust closed e-wallet application aimed at minimizing security breaches and enhancing transaction security for Softlogic Holdings PLC.",
+      "skills": ["Java", "Spring Boot","SQL","AWS"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Bank Administration System",
+      "imageSrc": "/assets/projects/project.png",
+      "description": "This is a  comprehensive web-based application designed ans developed to streamline and enhance the operational efficiency of a Thailand-based bank",
+      "skills": ["Java", "Spring Boot", "Angular", "SQL"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Warehouse Management System",
+      "imageSrc": "/assets/projects/project.png",
+      "description": "This is a comprehensive Warehouse Management System (WMS) designed to optimize warehouse operations, and enhance overall efficiency",
+      "skills": ["ASP.NET", "Angular", "Node","C#"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+
+    }
+  ]

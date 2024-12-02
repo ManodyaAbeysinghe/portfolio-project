@@ -1,0 +1,44 @@
+[  
+    {
+    "title": "Java",
+    "imageSrc": "/assets/skills/java.png"
+    },   
+    {
+      "title": "Spring Boot",
+      "imageSrc": "/assets/skills/spring-boot.png"
+    },
+    {
+      "title": "Angular",
+      "imageSrc": "/assets/skills/angularjs.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "/assets/skills/react.png"
+    },
+    {
+        "title": ".NET",
+        "imageSrc": "/assets/skills/microsoft-dotnet.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "/assets/skills/sql.png"
+    }
+    
+    
+    ,
+    {
+        "title": "Docker",
+        "imageSrc": "/assets/skills/docker.png"
+    },
+    
+    {
+      "title": "AWS",
+      "imageSrc": "/assets/skills/aws.png"
+    },
+
+    {
+      "title": "HTML",
+      "imageSrc": "/assets/skills/html.png"
+    }
+
+  ]
